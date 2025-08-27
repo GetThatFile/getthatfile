@@ -32,7 +32,8 @@ Works out-of-the-box — no setup, no Python, just download and run.
 
 🖼 Screenshots
 
-(Add a screenshot of your app window here, e.g., screenshots/main_window.png)
+<img width="547" height="284" alt="image" src="https://github.com/user-attachments/assets/054f0b48-3e6d-4597-8982-ee8890338a47" />
+
 
 🚀 How to Use
 
